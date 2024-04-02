@@ -36,6 +36,6 @@ The HTML part is a form that is set to submit a POST request to a specified URL:
 </script>
 ```
 
-- and.. Finally!
+and.. Finally!
 
 ![alt text](image-2.png)
