@@ -14,8 +14,8 @@
 
 - I logged into the platform looking for the change email address function. Then I inspect for discover what is the endpoint responsible:
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](img/image.png)
+![alt text](img/image-1.png)
 
 - The endpoint is `/my-account/change-email`
 
@@ -38,4 +38,4 @@ The HTML part is a form that is set to submit a POST request to a specified URL:
 
 - and.. Finally!
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
